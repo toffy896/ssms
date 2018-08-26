@@ -1,2 +1,0 @@
-# ssms
-small scale platform
